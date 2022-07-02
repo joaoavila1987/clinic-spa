@@ -1,2 +1,2 @@
 # Projeto-Stage-Spa
-Criação de aplicação em React a titulo de estudos
+Desenvolvimento de sistema para fins didáticos , por meio de uso da biblioteca React Js
