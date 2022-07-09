@@ -1,11 +1,13 @@
 import React from "react";
-import DashBoard from '../templates/corpo/Dashboard';
-//import Login from '../login/SignIn';
+import CadastroPaciente from '../cadastros/pacientes/cadastroPaciente';
+//import DashBoard from './Dashboard';
+//import Login from '../login/Login';
 
 function App() {
   return (
     <div>
-      <DashBoard />
+      <CadastroPaciente />
+      {/* <DashBoard />  */}
       {/* <Login /> */}
     </div>
   );
